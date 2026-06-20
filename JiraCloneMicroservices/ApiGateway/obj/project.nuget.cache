@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LQqf6tPNkWY=",
+  "success": true,
+  "projectFilePath": "D:\\fullstack\\nhom16btlfullstack-kientruc\\JiraCloneMicroservices\\ApiGateway\\ApiGateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
